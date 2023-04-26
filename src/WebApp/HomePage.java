@@ -6,5 +6,6 @@ public class HomePage {
     // navigation menu
     // something else
     //jhjhgfjhgfjh
+    //add header and footer
 
 }
