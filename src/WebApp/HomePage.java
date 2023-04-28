@@ -8,4 +8,6 @@ public class HomePage {
     //jhjhgfjhgfjh
     //add header and footer
 
+    // added some methods which is very good
+
 }
